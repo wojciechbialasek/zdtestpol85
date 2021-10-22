@@ -3,5 +3,8 @@ public class HelloWorld {
         System.out.println("Hello world 2021");
     }
 
+   Private void displayText() {
+	System.out.println("zmiana z drugiego repo");
+}
 
 }
