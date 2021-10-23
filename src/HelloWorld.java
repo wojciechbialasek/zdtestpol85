@@ -4,7 +4,7 @@ public class HelloWorld {
     }
 
    private void displayText() {
-	System.out.println("zmiana z drugiego repo jeszcze raza");
+	System.out.println("zmiana z drugiego");
 }
 
 }
